@@ -1,4 +1,4 @@
-// Smooth scroll for navigation links
+// smooht scroll here keirfjaweu902que0q8ue8qu892we
 document.querySelectorAll('.nav-links a').forEach(link => {
   link.addEventListener('click', event => {
     event.preventDefault();
